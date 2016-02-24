@@ -1,2 +1,2 @@
 # PixelDungeonProject
-Wish to modify Pixel Dungeon immensely 
+Wish to modify Pixel Dungeon immensely as a learning experiance :)
